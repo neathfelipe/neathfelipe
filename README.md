@@ -11,4 +11,4 @@ I'm interested in the technology field and enjoy learning about the latest advan
 I'm looking to collaborate on innovative tech projects that will challenge and inspire me to grow as a professional. Working on challenging and innovative projects is one of the things that I find most exciting about the field of technology. Whether it's developing new software applications, exploring emerging technologies, or tackling complex problems, I am always looking for new opportunities to collaborate with others and contribute to innovative projects.
 
 <h3> How to reach me </h3>
-📫 You can reach me via email at neath.felipe@gmail.com or connect with me on LinkedIn at [click here](https://www.linkedin.com/in/neathfelipe/). If you have any questions or would like to discuss potential collaboration opportunities, I would be happy to connect with you.
+You can reach me via email at neath.felipe@gmail.com or connect with me on LinkedIn at [click here](https://www.linkedin.com/in/neathfelipe/). If you have any questions or would like to discuss potential collaboration opportunities, I would be happy to connect with you.
