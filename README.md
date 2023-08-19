@@ -1,5 +1,7 @@
 # Felipe Rodrigues
-Breve descrição sobre você.
+Após uma década de atuação como Designer Gráfico Freelancer, minha jornada profissional me reservou uma reviravolta inesperada. 
+Com 25 anos de idade, senti um chamado para explorar um novo universo: a tecnologia e o desenvolvimento web. 
+Com muita coragem e entusiasmo, decidi investir em meu futuro e me matriculei em um curso na area de TI.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:neath.felipe@gmail.com)
